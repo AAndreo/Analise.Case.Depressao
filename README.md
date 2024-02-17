@@ -7,7 +7,7 @@ A depressão, um transtorno mental que afeta milhões de pessoas em todo o mundo
 
 ## Descrição
 Essa análise utiliza dados obtidos atráves do (NHANES) Pesquisa Nacional de Exame de Saúde e Nutrição, que é um estudo abrangente e contínuo realizado pelo Centro Nacional de Estatísticas de Saúde (NCHS) dos Estados Unidos. Com esses dados, nosso estudo explorou as relações entre os índices de drepressão e diversos fatores como gênero, idade, etnia e alimentação saudável.
-  * [Projeto completo]()
+  * [Projeto completo](Case.Drepressao.ipynb)
 
 ## Nossos dados
 * São estas as bases:
