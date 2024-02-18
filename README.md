@@ -6,7 +6,7 @@
 A depressão, um transtorno mental que afeta milhões de pessoas em todo o mundo, é caracterizada por sentimentos persistentes de tristeza, perda de interesse e energia, e alterações no sono, apetite e concentração. É importante destacar que a depressão não é causada por um único fator, mas sim por uma combinação complexa e individualizada de fatores biológicos, psicológicos e sociais. A influência de cada fator pode variar de pessoa para pessoa, e a vulnerabilidade à depressão pode mudar ao longo da vida.
 
 ## Descrição
-Essa análise utiliza dados obtidos atráves do (NHANES) Pesquisa Nacional de Exame de Saúde e Nutrição, que é um estudo abrangente e contínuo realizado pelo Centro Nacional de Estatísticas de Saúde (NCHS) dos Estados Unidos. Com esses dados, nosso estudo explorou as relações entre os índices de drepressão e diversos fatores como gênero, idade, etnia e alimentação saudável.
+Essa análise utiliza dados obtidos através do (NHANES) Pesquisa Nacional de Exame de Saúde e Nutrição, que é um estudo abrangente e contínuo realizado pelo Centro Nacional de Estatísticas de Saúde (NCHS) dos Estados Unidos. Com esses dados, nosso estudo explorou as relações entre os índices de depressão e diversos fatores como gênero, idade, etnia e alimentação saudável.
   * [Projeto completo](Case.Drepressao.ipynb)
 
 ## Nossos dados
