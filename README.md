@@ -11,8 +11,8 @@ Essa análise utiliza dados obtidos através do (NHANES) Pesquisa Nacional de Ex
 
 ## Nossos dados
 * São estas as bases:
-    * DEMO_PHQ.csv: banco de dados contendo 5334 observações de adultos pesquisados no NHANES 2005-2006. [Disponível aqui.](https://drive.google.com/drive/folders/1__vLmkC9FiFK14DdBfIPyy1CWv1yacph?usp=sharing)
-    * PAG_HEI.csv: banco de dados contendo 9424 observações de crianças e adultos pesquisados no NHANES 2005-2006. [Disponível aqui.](https://drive.google.com/drive/folders/1__vLmkC9FiFK14DdBfIPyy1CWv1yacph?usp=sharing)
+    * DEMO_PHQ.csv: banco de dados contendo 5334 observações de adultos pesquisados no NHANES 2005-2006.
+    * PAG_HEI.csv: banco de dados contendo 9424 observações de crianças e adultos pesquisados no NHANES 2005-2006.
 
 ## **Nosso desafio**
 * Realizar a análise de dados sobre a depressão e seus fatores.
